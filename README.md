@@ -44,4 +44,4 @@ int main() {
 
 
 # RESULT:
-Thus the code was exceutted sucessfully.
+ Thus the code was exceutted sucessfully.
